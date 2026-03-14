@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="8176" height="6144" viewBox="0 0 8176 6144" style="overflow:hidden">
+<defs>
+<clipPath id="c"><rect x="0" y="0" width="8176" height="6144"/></clipPath>
+</defs>
+<rect width="8176" height="6144" fill="rgb(4,3,7)"/>
+<g clip-path="url(#c)">
+<g transform="translate(1536.00 3072.00) rotate(326) scale(16.00 32.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(21,22,29)" fill-opacity="0.502"/></g>
+<polygon points="2047.08,3329.08 1820.14,3506.39 1504.92,3102.92 1731.86,2925.61" fill="rgb(4,3,7)" fill-opacity="0.502"/>
+<polygon points="192.00,0.00 272.00,0.00 272.00,0.00 192.00,0.00" fill="rgb(18,12,25)" fill-opacity="0.502"/>
+<circle cx="112.00" cy="272.00" r="288.00" fill="rgb(4,3,7)" fill-opacity="0.502"/>
+<circle cx="1680.00" cy="3520.00" r="464.00" fill="rgb(4,3,7)" fill-opacity="0.502"/>
+<g transform="translate(1648.00 3424.00) rotate(294) scale(336.00 400.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(4,3,7)" fill-opacity="0.502"/></g>
+<polygon points="6330.93,4449.86 6326.47,4418.18 6469.07,4398.14 6473.53,4429.82" fill="rgb(6,6,10)" fill-opacity="0.502"/>
+<circle cx="6832.00" cy="4496.00" r="496.00" fill="rgb(4,3,7)" fill-opacity="0.502"/>
+<circle cx="6256.00" cy="4128.00" r="304.00" fill="rgb(4,3,7)" fill-opacity="0.502"/>
+</g>
+</svg>
