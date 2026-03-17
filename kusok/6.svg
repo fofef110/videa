@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="768" viewBox="0 0 1024 768" style="overflow:hidden">
+<defs>
+<clipPath id="c"><rect x="0" y="0" width="1024" height="768"/></clipPath>
+</defs>
+<rect width="1024" height="768" fill="rgb(0,0,0)"/>
+<g clip-path="url(#c)">
+<polygon points="389.89,820.04 386.12,712.10 390.11,711.96 393.88,819.90" fill="rgb(2,0,1)" fill-opacity="0.502"/>
+<polygon points="413.16,607.54 398.13,714.48 326.84,704.46 341.87,597.52" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<polygon points="717.17,204.75 667.73,231.04 650.83,199.25 700.27,172.96" fill="rgb(2,1,0)" fill-opacity="0.502"/>
+<polygon points="991.15,635.15 989.76,627.27 1048.85,616.85 1050.24,624.73" fill="rgb(2,0,0)" fill-opacity="0.502"/>
+<g transform="translate(972.00 516.00) rotate(238) scale(124.00 72.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,0,0)" fill-opacity="0.502"/></g>
+<polygon points="900.00,532.00 900.00,524.00 956.00,524.00 956.00,532.00" fill="rgb(2,0,1)" fill-opacity="0.502"/>
+<g transform="translate(824.00 604.00) rotate(268) scale(108.00 104.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,0,0)" fill-opacity="0.502"/></g>
+<g transform="translate(968.00 564.00) rotate(110) scale(32.00 56.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,0,0)" fill-opacity="0.502"/></g>
+<g transform="translate(844.00 596.00) rotate(3) scale(96.00 84.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,0,0)" fill-opacity="0.502"/></g>
+<polygon points="1071.92,518.67 1072.06,526.67 920.08,529.33 919.94,521.33" fill="rgb(3,0,1)" fill-opacity="0.502"/>
+<polygon points="1022.57,521.79 918.64,518.16 921.43,438.21 1025.36,441.84" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<g transform="translate(928.00 572.00) rotate(87) scale(44.00 80.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,0,0)" fill-opacity="0.502"/></g>
+<polygon points="995.97,528.36 996.53,524.40 1048.03,531.64 1047.47,535.60" fill="rgb(3,0,1)" fill-opacity="0.502"/>
+<g transform="translate(1004.00 592.00) rotate(145) scale(104.00 16.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,0,0)" fill-opacity="0.502"/></g>
+<polygon points="627.27,210.00 623.56,221.41 600.73,214.00 604.44,202.59" fill="rgb(2,1,1)" fill-opacity="0.502"/>
+<polygon points="362.26,740.27 357.73,792.08 353.74,791.73 358.27,739.92" fill="rgb(2,0,0)" fill-opacity="0.502"/>
+<polygon points="1026.23,627.42 1025.53,631.36 1009.77,628.58 1010.47,624.64" fill="rgb(3,0,1)" fill-opacity="0.502"/>
+</g>
+</svg>
