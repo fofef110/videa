@@ -1,0 +1,417 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="8192" height="4608" viewBox="0 0 8192 4608" style="overflow:hidden">
+<defs>
+<clipPath id="c"><rect x="0" y="0" width="8192" height="4608"/></clipPath>
+</defs>
+<rect width="8192" height="4608" fill="rgb(88,58,37)"/>
+<g clip-path="url(#c)">
+<circle cx="1984.00" cy="1664.00" r="912.00" fill="rgb(242,163,105)" fill-opacity="0.502"/>
+<g transform="translate(176.00 2448.00) rotate(270) scale(7216.00 960.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,0,0)" fill-opacity="0.502"/></g>
+<circle cx="8176.00" cy="2848.00" r="1312.00" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<g transform="translate(5488.00 3200.00) rotate(264) scale(2448.00 1600.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(221,144,97)" fill-opacity="0.502"/></g>
+<circle cx="7824.00" cy="864.00" r="976.00" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<g transform="translate(1680.00 3792.00) rotate(260) scale(1440.00 2464.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(3,0,0)" fill-opacity="0.502"/></g>
+<polygon points="6731.15,4164.70 5197.88,3206.60 5604.85,2555.30 7138.12,3513.40" fill="rgb(255,179,136)" fill-opacity="0.502"/>
+<circle cx="7808.00" cy="3952.00" r="752.00" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<circle cx="1936.00" cy="0.00" r="864.00" fill="rgb(217,210,128)" fill-opacity="0.502"/>
+<circle cx="6384.00" cy="1552.00" r="752.00" fill="rgb(157,118,78)" fill-opacity="0.502"/>
+<circle cx="1568.00" cy="192.00" r="288.00" fill="rgb(255,254,239)" fill-opacity="0.502"/>
+<circle cx="4288.00" cy="672.00" r="608.00" fill="rgb(185,141,88)" fill-opacity="0.502"/>
+<circle cx="4144.00" cy="1712.00" r="640.00" fill="rgb(100,63,44)" fill-opacity="0.502"/>
+<polygon points="1980.52,878.68 1850.37,56.92 2403.48,-30.68 2533.63,791.08" fill="rgb(43,38,0)" fill-opacity="0.502"/>
+<g transform="translate(2592.00 2016.00) rotate(150) scale(608.00 304.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(255,178,113)" fill-opacity="0.502"/></g>
+<g transform="translate(7984.00 1472.00) rotate(91) scale(8112.00 896.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,0,0)" fill-opacity="0.502"/></g>
+<g transform="translate(1392.00 2112.00) rotate(20) scale(288.00 416.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(249,167,93)" fill-opacity="0.502"/></g>
+<circle cx="7760.00" cy="1456.00" r="688.00" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<g transform="translate(3664.00 3200.00) rotate(358) scale(624.00 128.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(205,66,27)" fill-opacity="0.502"/></g>
+<g transform="translate(480.00 1824.00) rotate(91) scale(5664.00 624.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,0,0)" fill-opacity="0.502"/></g>
+<polygon points="6624.85,1261.58 6683.38,1818.51 5999.15,1890.42 5940.62,1333.49" fill="rgb(81,51,33)" fill-opacity="0.502"/>
+<circle cx="2576.00" cy="3120.00" r="352.00" fill="rgb(134,11,4)" fill-opacity="0.502"/>
+<g transform="translate(3184.00 976.00) rotate(94) scale(160.00 1152.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(208,154,114)" fill-opacity="0.502"/></g>
+<circle cx="1712.00" cy="1168.00" r="640.00" fill="rgb(125,85,61)" fill-opacity="0.502"/>
+<polygon points="6848.00,1552.00 7056.00,1552.00 7056.00,2784.00 6848.00,2784.00" fill="rgb(222,159,108)" fill-opacity="0.502"/>
+<circle cx="7440.00" cy="2752.00" r="544.00" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<circle cx="448.00" cy="1184.00" r="656.00" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<g transform="translate(5696.00 0.00) rotate(81) scale(416.00 624.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,0,0)" fill-opacity="0.502"/></g>
+<g transform="translate(3264.00 2160.00) rotate(258) scale(96.00 448.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(255,69,26)" fill-opacity="0.502"/></g>
+<circle cx="6704.00" cy="1248.00" r="400.00" fill="rgb(156,116,62)" fill-opacity="0.502"/>
+<circle cx="3312.00" cy="2656.00" r="400.00" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<polygon points="5298.56,1179.17 5744.11,1226.00 5645.44,2164.83 5199.89,2118.00" fill="rgb(53,25,10)" fill-opacity="0.502"/>
+<polygon points="2261.73,1667.89 2281.84,2243.54 1578.27,2268.11 1558.16,1692.46" fill="rgb(240,154,89)" fill-opacity="0.502"/>
+<g transform="translate(1552.00 816.00) rotate(119) scale(400.00 480.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(163,123,86)" fill-opacity="0.502"/></g>
+<g transform="translate(7344.00 128.00) rotate(294) scale(368.00 1952.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,0,0)" fill-opacity="0.502"/></g>
+<circle cx="4800.00" cy="3344.00" r="848.00" fill="rgb(178,109,68)" fill-opacity="0.502"/>
+<circle cx="3232.00" cy="448.00" r="432.00" fill="rgb(44,7,0)" fill-opacity="0.502"/>
+<g transform="translate(5312.00 736.00) rotate(274) scale(160.00 416.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(35,6,0)" fill-opacity="0.502"/></g>
+<g transform="translate(3552.00 3904.00) rotate(35) scale(224.00 512.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,0,0)" fill-opacity="0.502"/></g>
+<circle cx="4112.00" cy="3232.00" r="384.00" fill="rgb(116,56,38)" fill-opacity="0.502"/>
+<g transform="translate(7040.00 3808.00) rotate(89) scale(688.00 32.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(241,175,134)" fill-opacity="0.502"/></g>
+<polygon points="5928.86,934.67 5878.66,1508.48 5751.14,1497.33 5801.34,923.52" fill="rgb(255,241,196)" fill-opacity="0.502"/>
+<polygon points="2401.06,928.80 2551.00,405.87 2750.94,463.20 2601.00,986.13" fill="rgb(194,159,40)" fill-opacity="0.502"/>
+<g transform="translate(2672.00 128.00) rotate(12) scale(112.00 192.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(255,255,255)" fill-opacity="0.502"/></g>
+<g transform="translate(4480.00 1616.00) rotate(360) scale(320.00 512.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(96,61,41)" fill-opacity="0.502"/></g>
+<circle cx="6688.00" cy="2992.00" r="288.00" fill="rgb(101,49,23)" fill-opacity="0.502"/>
+<polygon points="1888.00,1296.00 1888.00,1616.00 1152.00,1616.00 1152.00,1296.00" fill="rgb(73,42,23)" fill-opacity="0.502"/>
+<circle cx="432.00" cy="2096.00" r="672.00" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<circle cx="5120.00" cy="2928.00" r="448.00" fill="rgb(192,123,84)" fill-opacity="0.502"/>
+<polygon points="1600.26,21.24 1853.77,-14.39 1951.74,682.76 1698.23,718.39" fill="rgb(253,229,192)" fill-opacity="0.502"/>
+<circle cx="1712.00" cy="976.00" r="320.00" fill="rgb(128,75,53)" fill-opacity="0.502"/>
+<circle cx="4656.00" cy="4592.00" r="816.00" fill="rgb(120,88,44)" fill-opacity="0.502"/>
+<circle cx="5808.00" cy="1824.00" r="128.00" fill="rgb(255,222,186)" fill-opacity="0.502"/>
+<circle cx="7696.00" cy="4192.00" r="624.00" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<polygon points="5710.93,3184.32 5828.07,2921.22 6705.07,3311.68 6587.93,3574.78" fill="rgb(255,185,148)" fill-opacity="0.502"/>
+<g transform="translate(352.00 304.00) rotate(148) scale(608.00 1056.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,0,0)" fill-opacity="0.502"/></g>
+<circle cx="4288.00" cy="48.00" r="272.00" fill="rgb(84,38,17)" fill-opacity="0.502"/>
+<circle cx="4944.00" cy="1648.00" r="160.00" fill="rgb(255,121,103)" fill-opacity="0.502"/>
+<polygon points="1816.42,267.88 1139.69,461.93 1095.58,308.12 1772.31,114.07" fill="rgb(255,225,197)" fill-opacity="0.502"/>
+<polygon points="2936.00,1272.00 2936.00,1688.00 2600.00,1688.00 2600.00,1272.00" fill="rgb(35,19,5)" fill-opacity="0.502"/>
+<circle cx="4384.00" cy="2208.00" r="368.00" fill="rgb(110,65,37)" fill-opacity="0.502"/>
+<polygon points="2048.00,2512.00 2688.00,2512.00 2688.00,3152.00 2048.00,3152.00" fill="rgb(27,30,16)" fill-opacity="0.502"/>
+<circle cx="7824.00" cy="2560.00" r="752.00" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<polygon points="5321.14,4236.39 5073.93,3475.54 5910.86,3203.61 6158.07,3964.46" fill="rgb(191,126,81)" fill-opacity="0.502"/>
+<polygon points="3602.32,4811.51 2675.67,4339.36 2813.68,4068.49 3740.33,4540.64" fill="rgb(59,63,52)" fill-opacity="0.502"/>
+<g transform="translate(5008.00 1312.00) rotate(175) scale(768.00 176.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(87,52,36)" fill-opacity="0.502"/></g>
+<polygon points="1615.23,3429.85 1510.07,3232.07 2032.77,2954.15 2137.93,3151.93" fill="rgb(94,94,51)" fill-opacity="0.502"/>
+<polygon points="5835.55,1958.79 5730.89,2703.47 5572.45,2681.21 5677.11,1936.53" fill="rgb(255,219,184)" fill-opacity="0.502"/>
+<circle cx="1184.00" cy="1136.00" r="64.00" fill="rgb(255,247,213)" fill-opacity="0.502"/>
+<circle cx="3776.00" cy="1840.00" r="272.00" fill="rgb(159,103,70)" fill-opacity="0.502"/>
+<circle cx="5344.00" cy="2128.00" r="320.00" fill="rgb(144,79,51)" fill-opacity="0.502"/>
+<circle cx="5024.00" cy="480.00" r="304.00" fill="rgb(143,98,48)" fill-opacity="0.502"/>
+<polygon points="2334.48,665.69 2122.13,-254.11 2449.52,-329.69 2661.87,590.11" fill="rgb(154,126,0)" fill-opacity="0.502"/>
+<polygon points="1304.00,1144.00 1304.00,1096.00 1752.00,1096.00 1752.00,1144.00" fill="rgb(255,255,255)" fill-opacity="0.502"/>
+<polygon points="1680.00,1072.00 3296.00,1072.00 3296.00,1136.00 1680.00,1136.00" fill="rgb(255,255,229)" fill-opacity="0.502"/>
+<g transform="translate(6592.00 4528.00) rotate(51) scale(496.00 496.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(119,94,46)" fill-opacity="0.502"/></g>
+<circle cx="6928.00" cy="3472.00" r="144.00" fill="rgb(253,197,160)" fill-opacity="0.502"/>
+<g transform="translate(5408.00 2416.00) rotate(185) scale(224.00 320.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(134,73,42)" fill-opacity="0.502"/></g>
+<polygon points="3273.42,2569.18 3286.82,2185.42 3670.58,2198.82 3657.18,2582.58" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<polygon points="3991.41,1044.51 3992.53,1108.50 3592.59,1115.49 3591.47,1051.50" fill="rgb(255,255,241)" fill-opacity="0.502"/>
+<g transform="translate(7456.00 1040.00) rotate(273) scale(2064.00 352.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,0,0)" fill-opacity="0.502"/></g>
+<circle cx="6272.00" cy="3952.00" r="400.00" fill="rgb(170,117,72)" fill-opacity="0.502"/>
+<polygon points="5675.59,2114.27 5813.65,1131.92 5940.41,1149.73 5802.35,2132.08" fill="rgb(255,213,173)" fill-opacity="0.502"/>
+<polygon points="1994.69,2554.74 1160.13,2778.36 1077.31,2469.26 1911.87,2245.64" fill="rgb(92,46,19)" fill-opacity="0.502"/>
+<polygon points="2376.17,3453.81 2314.43,3238.49 2775.83,3106.19 2837.57,3321.51" fill="rgb(220,3,8)" fill-opacity="0.502"/>
+<g transform="translate(1520.00 4256.00) rotate(47) scale(400.00 432.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(92,57,35)" fill-opacity="0.502"/></g>
+<circle cx="1856.00" cy="3744.00" r="416.00" fill="rgb(46,46,21)" fill-opacity="0.502"/>
+<circle cx="368.00" cy="3488.00" r="912.00" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<polygon points="3620.91,3543.67 3317.32,3527.76 3339.09,3112.33 3642.68,3128.24" fill="rgb(211,2,0)" fill-opacity="0.502"/>
+<g transform="translate(6640.00 640.00) rotate(84) scale(272.00 464.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(78,73,9)" fill-opacity="0.502"/></g>
+<g transform="translate(4224.00 960.00) rotate(133) scale(144.00 336.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(163,123,95)" fill-opacity="0.502"/></g>
+<g transform="translate(560.00 2016.00) rotate(94) scale(2688.00 512.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,0,0)" fill-opacity="0.502"/></g>
+<circle cx="2240.00" cy="640.00" r="240.00" fill="rgb(59,50,5)" fill-opacity="0.502"/>
+<circle cx="3120.00" cy="3648.00" r="240.00" fill="rgb(99,86,58)" fill-opacity="0.502"/>
+<polygon points="3522.11,748.87 4047.58,889.67 3997.89,1075.13 3472.42,934.33" fill="rgb(112,59,33)" fill-opacity="0.502"/>
+<polygon points="3357.76,3643.77 3613.60,3652.71 3586.24,4436.23 3330.40,4427.29" fill="rgb(0,0,2)" fill-opacity="0.502"/>
+<g transform="translate(2224.00 1536.00) rotate(297) scale(176.00 176.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(77,51,18)" fill-opacity="0.502"/></g>
+<g transform="translate(3808.00 2560.00) rotate(37) scale(192.00 80.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(190,119,78)" fill-opacity="0.502"/></g>
+<polygon points="3578.31,1831.36 3103.59,2023.16 3013.69,1800.64 3488.41,1608.84" fill="rgb(20,0,0)" fill-opacity="0.502"/>
+<g transform="translate(6080.00 1120.00) rotate(91) scale(32.00 1168.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(255,227,197)" fill-opacity="0.502"/></g>
+<polygon points="5937.76,1820.85 6356.93,1925.36 6078.24,3043.15 5659.07,2938.64" fill="rgb(147,84,55)" fill-opacity="0.502"/>
+<polygon points="7072.00,4592.00 4880.00,4592.00 4880.00,4192.00 7072.00,4192.00" fill="rgb(122,90,47)" fill-opacity="0.502"/>
+<g transform="translate(4624.00 2832.00) rotate(293) scale(304.00 480.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(172,114,79)" fill-opacity="0.502"/></g>
+<g transform="translate(2896.00 1872.00) rotate(167) scale(144.00 352.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(211,147,100)" fill-opacity="0.502"/></g>
+<g transform="translate(5104.00 1920.00) rotate(127) scale(192.00 144.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(236,94,69)" fill-opacity="0.502"/></g>
+<g transform="translate(2560.00 3920.00) rotate(166) scale(864.00 96.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(107,72,51)" fill-opacity="0.502"/></g>
+<polygon points="1114.14,1793.03 1226.13,1791.07 1237.86,2462.97 1125.87,2464.93" fill="rgb(232,163,93)" fill-opacity="0.502"/>
+<g transform="translate(1392.00 1856.00) rotate(203) scale(240.00 304.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(211,142,96)" fill-opacity="0.502"/></g>
+<g transform="translate(2960.00 3152.00) rotate(64) scale(112.00 304.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(123,5,5)" fill-opacity="0.502"/></g>
+<polygon points="6281.43,2529.01 6654.49,1931.98 6966.57,2126.99 6593.51,2724.02" fill="rgb(105,68,43)" fill-opacity="0.502"/>
+<g transform="translate(2816.00 4592.00) rotate(222) scale(304.00 256.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(88,64,34)" fill-opacity="0.502"/></g>
+<g transform="translate(3936.00 2832.00) rotate(94) scale(272.00 176.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(100,43,30)" fill-opacity="0.502"/></g>
+<circle cx="3376.00" cy="4464.00" r="112.00" fill="rgb(142,152,131)" fill-opacity="0.502"/>
+<g transform="translate(6816.00 2880.00) rotate(25) scale(32.00 128.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(255,215,175)" fill-opacity="0.502"/></g>
+<circle cx="6624.00" cy="64.00" r="224.00" fill="rgb(2,3,0)" fill-opacity="0.502"/>
+<g transform="translate(3616.00 1536.00) rotate(8) scale(448.00 128.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(111,78,62)" fill-opacity="0.502"/></g>
+<g transform="translate(3872.00 896.00) rotate(200) scale(400.00 80.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(125,79,50)" fill-opacity="0.502"/></g>
+<g transform="translate(2736.00 4064.00) rotate(314) scale(64.00 944.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(9,9,3)" fill-opacity="0.502"/></g>
+<circle cx="3328.00" cy="2624.00" r="336.00" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<polygon points="6203.16,1963.34 6148.44,2113.69 5892.84,2020.66 5947.56,1870.31" fill="rgb(81,50,20)" fill-opacity="0.502"/>
+<circle cx="7776.00" cy="3616.00" r="704.00" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<circle cx="5520.00" cy="0.00" r="352.00" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<g transform="translate(2800.00 1424.00) rotate(336) scale(96.00 320.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(74,51,34)" fill-opacity="0.502"/></g>
+<polygon points="4248.20,3115.30 4211.56,2926.82 4839.80,2804.70 4876.44,2993.18" fill="rgb(139,80,47)" fill-opacity="0.502"/>
+<circle cx="6784.00" cy="3504.00" r="192.00" fill="rgb(241,181,143)" fill-opacity="0.502"/>
+<g transform="translate(2640.00 2896.00) rotate(341) scale(432.00 272.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(59,30,15)" fill-opacity="0.502"/></g>
+<g transform="translate(4608.00 1056.00) rotate(181) scale(384.00 80.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(200,154,129)" fill-opacity="0.502"/></g>
+<circle cx="1200.00" cy="1248.00" r="96.00" fill="rgb(83,36,12)" fill-opacity="0.502"/>
+<circle cx="7680.00" cy="1024.00" r="608.00" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<polygon points="2720.55,420.80 2661.10,474.33 2575.45,379.20 2634.90,325.67" fill="rgb(255,248,165)" fill-opacity="0.502"/>
+<circle cx="2272.00" cy="2080.00" r="384.00" fill="rgb(215,144,88)" fill-opacity="0.502"/>
+<polygon points="5589.92,2606.52 5512.13,3047.71 5386.08,3025.48 5463.87,2584.29" fill="rgb(132,74,40)" fill-opacity="0.502"/>
+<g transform="translate(3872.00 48.00) rotate(271) scale(48.00 880.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(134,87,52)" fill-opacity="0.502"/></g>
+<polygon points="1813.60,4658.19 1802.43,4018.28 2058.40,4013.81 2069.57,4653.72" fill="rgb(94,37,21)" fill-opacity="0.502"/>
+<circle cx="4528.00" cy="640.00" r="432.00" fill="rgb(143,108,62)" fill-opacity="0.502"/>
+<polygon points="3728.48,4338.27 3757.73,4576.48 3519.52,4605.73 3490.27,4367.52" fill="rgb(0,0,2)" fill-opacity="0.502"/>
+<circle cx="2864.00" cy="656.00" r="192.00" fill="rgb(43,25,7)" fill-opacity="0.502"/>
+<g transform="translate(5040.00 960.00) rotate(349) scale(384.00 80.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(106,57,49)" fill-opacity="0.502"/></g>
+<polygon points="6889.06,1538.53 6678.57,1461.91 6902.94,845.47 7113.43,922.09" fill="rgb(123,90,39)" fill-opacity="0.502"/>
+<circle cx="7824.00" cy="2080.00" r="752.00" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<polygon points="3747.64,3433.98 3951.02,3833.16 3580.36,4022.02 3376.98,3622.84" fill="rgb(0,0,1)" fill-opacity="0.502"/>
+<polygon points="6913.64,1981.62 7071.38,2278.29 6958.36,2338.38 6800.62,2041.71" fill="rgb(217,157,113)" fill-opacity="0.502"/>
+<g transform="translate(2944.00 4192.00) rotate(107) scale(48.00 240.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(92,95,93)" fill-opacity="0.502"/></g>
+<circle cx="5856.00" cy="3248.00" r="336.00" fill="rgb(235,153,113)" fill-opacity="0.502"/>
+<polygon points="5977.59,1587.55 6049.83,1177.87 6790.41,1308.45 6718.17,1718.13" fill="rgb(91,59,34)" fill-opacity="0.502"/>
+<polygon points="1368.00,312.00 1368.00,648.00 1112.00,648.00 1112.00,312.00" fill="rgb(218,207,146)" fill-opacity="0.502"/>
+<g transform="translate(6352.00 3088.00) rotate(180) scale(64.00 64.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(127,58,17)" fill-opacity="0.502"/></g>
+<g transform="translate(1296.00 192.00) rotate(214) scale(144.00 96.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(135,95,59)" fill-opacity="0.502"/></g>
+<g transform="translate(4400.00 608.00) rotate(50) scale(416.00 160.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(151,121,73)" fill-opacity="0.502"/></g>
+<circle cx="2816.00" cy="3536.00" r="256.00" fill="rgb(33,32,24)" fill-opacity="0.502"/>
+<polygon points="3564.15,2179.42 3756.03,2172.72 3763.85,2396.58 3571.97,2403.28" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<g transform="translate(5584.00 3584.00) rotate(299) scale(272.00 464.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(184,116,75)" fill-opacity="0.502"/></g>
+<polygon points="878.43,742.09 2141.66,697.98 2145.57,809.91 882.34,854.02" fill="rgb(50,21,0)" fill-opacity="0.502"/>
+<circle cx="2464.00" cy="1584.00" r="96.00" fill="rgb(253,204,167)" fill-opacity="0.502"/>
+<circle cx="7824.00" cy="560.00" r="752.00" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<polygon points="6469.64,1475.71 6562.21,1586.02 6378.36,1740.29 6285.79,1629.98" fill="rgb(189,132,101)" fill-opacity="0.502"/>
+<polygon points="4199.37,1349.34 4311.59,1119.25 4728.63,1322.66 4616.41,1552.75" fill="rgb(118,81,54)" fill-opacity="0.502"/>
+<polygon points="1277.60,4616.21 1081.69,4507.61 1314.40,4087.79 1510.31,4196.39" fill="rgb(101,76,49)" fill-opacity="0.502"/>
+<polygon points="3699.31,2672.21 3649.30,2388.58 3948.69,2335.79 3998.70,2619.42" fill="rgb(176,110,70)" fill-opacity="0.502"/>
+<circle cx="2656.00" cy="0.00" r="192.00" fill="rgb(255,249,208)" fill-opacity="0.502"/>
+<polygon points="6008.54,2259.01 6103.65,1658.49 6119.46,1660.99 6024.35,2261.51" fill="rgb(255,255,255)" fill-opacity="0.502"/>
+<polygon points="6067.77,911.67 6032.70,983.57 5788.23,864.33 5823.30,792.43" fill="rgb(252,206,149)" fill-opacity="0.502"/>
+<polygon points="1518.92,2190.86 1667.27,2130.92 1841.08,2561.14 1692.73,2621.08" fill="rgb(142,81,47)" fill-opacity="0.502"/>
+<polygon points="6757.56,613.17 6949.57,728.54 6842.44,906.83 6650.43,791.46" fill="rgb(34,33,0)" fill-opacity="0.502"/>
+<polygon points="2448.00,976.00 2528.00,976.00 2528.00,1904.00 2448.00,1904.00" fill="rgb(255,214,171)" fill-opacity="0.502"/>
+<g transform="translate(2176.00 384.00) rotate(239) scale(464.00 256.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(84,80,12)" fill-opacity="0.502"/></g>
+<g transform="translate(1184.00 0.00) rotate(357) scale(48.00 224.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(237,195,161)" fill-opacity="0.502"/></g>
+<circle cx="3616.00" cy="1904.00" r="112.00" fill="rgb(199,125,97)" fill-opacity="0.502"/>
+<polygon points="4278.36,1847.43 4808.57,1622.36 5033.64,2152.57 4503.43,2377.64" fill="rgb(130,79,53)" fill-opacity="0.502"/>
+<polygon points="3507.81,3778.82 3246.02,3455.53 3308.19,3405.18 3569.98,3728.47" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<polygon points="3665.73,1702.94 3647.61,1495.74 3998.27,1465.06 4016.39,1672.26" fill="rgb(61,31,12)" fill-opacity="0.502"/>
+<polygon points="5382.50,473.54 5475.58,305.62 5657.50,406.46 5564.42,574.38" fill="rgb(14,0,0)" fill-opacity="0.502"/>
+<polygon points="2968.82,394.62 3000.07,-52.29 3367.18,-26.62 3335.93,420.29" fill="rgb(45,16,6)" fill-opacity="0.502"/>
+<g transform="translate(5264.00 704.00) rotate(359) scale(368.00 80.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(29,1,0)" fill-opacity="0.502"/></g>
+<g transform="translate(6304.00 784.00) rotate(197) scale(256.00 128.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(48,47,3)" fill-opacity="0.502"/></g>
+<g transform="translate(5200.00 3776.00) rotate(210) scale(416.00 352.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(170,114,72)" fill-opacity="0.502"/></g>
+<circle cx="6080.00" cy="2688.00" r="192.00" fill="rgb(184,125,87)" fill-opacity="0.502"/>
+<g transform="translate(1600.00 96.00) rotate(270) scale(304.00 128.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(255,230,204)" fill-opacity="0.502"/></g>
+<g transform="translate(4672.00 912.00) rotate(171) scale(32.00 80.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(248,219,206)" fill-opacity="0.502"/></g>
+<circle cx="3008.00" cy="2496.00" r="224.00" fill="rgb(0,0,1)" fill-opacity="0.502"/>
+<g transform="translate(7776.00 4288.00) rotate(152) scale(736.00 480.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,0,0)" fill-opacity="0.502"/></g>
+<g transform="translate(2304.00 144.00) rotate(246) scale(592.00 160.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(135,112,20)" fill-opacity="0.502"/></g>
+<g transform="translate(4496.00 3296.00) rotate(191) scale(576.00 112.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(143,73,36)" fill-opacity="0.502"/></g>
+<polygon points="2144.00,1488.00 2144.00,1280.00 2160.00,1280.00 2160.00,1488.00" fill="rgb(255,255,251)" fill-opacity="0.502"/>
+<g transform="translate(5296.00 1472.00) rotate(253) scale(240.00 256.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(79,46,36)" fill-opacity="0.502"/></g>
+<polygon points="1810.05,2608.54 1836.55,2911.38 1469.95,2943.46 1443.45,2640.62" fill="rgb(15,5,0)" fill-opacity="0.502"/>
+<polygon points="6125.81,1877.09 6436.67,1625.36 6658.19,1898.91 6347.33,2150.64" fill="rgb(183,125,98)" fill-opacity="0.502"/>
+<circle cx="6656.00" cy="4432.00" r="416.00" fill="rgb(139,99,60)" fill-opacity="0.502"/>
+<polygon points="2919.43,1805.51 3066.38,1974.56 2776.57,2226.49 2629.62,2057.44" fill="rgb(227,158,99)" fill-opacity="0.502"/>
+<polygon points="3189.59,1071.39 3197.39,1007.86 3594.41,1056.61 3586.61,1120.14" fill="rgb(242,202,164)" fill-opacity="0.502"/>
+<circle cx="3760.00" cy="4272.00" r="208.00" fill="rgb(68,53,37)" fill-opacity="0.502"/>
+<polygon points="7086.48,455.97 5996.07,628.68 5953.52,360.03 7043.93,187.32" fill="rgb(120,75,41)" fill-opacity="0.502"/>
+<circle cx="3712.00" cy="3280.00" r="144.00" fill="rgb(0,23,0)" fill-opacity="0.502"/>
+<polygon points="6159.82,1640.14 6144.19,1192.42 6160.18,1191.86 6175.81,1639.58" fill="rgb(195,173,141)" fill-opacity="0.502"/>
+<circle cx="3360.00" cy="4208.00" r="240.00" fill="rgb(0,0,3)" fill-opacity="0.502"/>
+<polygon points="7085.92,3570.04 7041.29,4080.09 6834.08,4061.96 6878.71,3551.91" fill="rgb(219,157,117)" fill-opacity="0.502"/>
+<polygon points="6688.13,2102.62 6740.22,1951.34 6815.87,1977.38 6763.78,2128.66" fill="rgb(35,2,0)" fill-opacity="0.502"/>
+<polygon points="6179.28,19.97 6172.58,211.85 5948.72,204.03 5955.42,12.15" fill="rgb(0,10,0)" fill-opacity="0.502"/>
+<circle cx="2832.00" cy="928.00" r="112.00" fill="rgb(87,41,19)" fill-opacity="0.502"/>
+<g transform="translate(3744.00 4592.00) rotate(44) scale(80.00 800.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(130,86,54)" fill-opacity="0.502"/></g>
+<g transform="translate(1200.00 3504.00) rotate(223) scale(544.00 128.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,3,1)" fill-opacity="0.502"/></g>
+<polygon points="6557.91,423.50 6656.80,476.08 6514.09,744.50 6415.20,691.92" fill="rgb(130,105,54)" fill-opacity="0.502"/>
+<circle cx="5424.00" cy="1328.00" r="48.00" fill="rgb(176,135,93)" fill-opacity="0.502"/>
+<polygon points="7122.53,3345.61 6867.93,3372.37 6829.47,3006.39 7084.07,2979.63" fill="rgb(89,45,19)" fill-opacity="0.502"/>
+<g transform="translate(4112.00 1872.00) rotate(249) scale(240.00 176.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(118,82,54)" fill-opacity="0.502"/></g>
+<polygon points="3134.18,3211.13 2832.29,3473.55 2737.82,3364.87 3039.71,3102.45" fill="rgb(37,8,5)" fill-opacity="0.502"/>
+<g transform="translate(3088.00 1440.00) rotate(343) scale(96.00 96.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(38,9,0)" fill-opacity="0.502"/></g>
+<circle cx="2432.00" cy="848.00" r="96.00" fill="rgb(239,174,149)" fill-opacity="0.502"/>
+<polygon points="6285.15,1870.89 6275.10,1583.07 6674.85,1569.11 6684.90,1856.93" fill="rgb(111,70,45)" fill-opacity="0.502"/>
+<polygon points="5776.00,2832.00 6768.00,2832.00 6768.00,2912.00 5776.00,2912.00" fill="rgb(107,42,11)" fill-opacity="0.502"/>
+<circle cx="2608.00" cy="3712.00" r="96.00" fill="rgb(85,97,76)" fill-opacity="0.502"/>
+<g transform="translate(5008.00 3152.00) rotate(16) scale(464.00 144.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(215,130,90)" fill-opacity="0.502"/></g>
+<circle cx="6608.00" cy="2352.00" r="256.00" fill="rgb(126,83,53)" fill-opacity="0.502"/>
+<circle cx="4112.00" cy="1088.00" r="48.00" fill="rgb(255,255,240)" fill-opacity="0.502"/>
+<circle cx="2224.00" cy="2224.00" r="272.00" fill="rgb(194,130,71)" fill-opacity="0.502"/>
+<g transform="translate(1200.00 3952.00) rotate(91) scale(176.00 96.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(87,51,36)" fill-opacity="0.502"/></g>
+<polygon points="5298.26,3538.53 5559.85,3303.00 5709.74,3469.47 5448.15,3705.00" fill="rgb(206,130,94)" fill-opacity="0.502"/>
+<polygon points="1631.33,1248.05 1568.98,804.41 1600.67,799.95 1663.02,1243.59" fill="rgb(255,199,174)" fill-opacity="0.502"/>
+<circle cx="1376.00" cy="880.00" r="80.00" fill="rgb(204,155,120)" fill-opacity="0.502"/>
+<g transform="translate(2256.00 1856.00) rotate(154) scale(384.00 112.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(220,142,93)" fill-opacity="0.502"/></g>
+<polygon points="5122.57,1529.30 5043.77,1630.16 4829.43,1462.70 4908.23,1361.84" fill="rgb(236,131,126)" fill-opacity="0.502"/>
+<polygon points="3851.53,1023.92 3860.47,768.08 3860.47,768.08 3851.53,1023.92" fill="rgb(255,255,252)" fill-opacity="0.502"/>
+<circle cx="928.00" cy="4480.00" r="176.00" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<circle cx="2688.00" cy="2624.00" r="336.00" fill="rgb(61,33,21)" fill-opacity="0.502"/>
+<polygon points="5730.28,1098.28 5647.12,707.02 5709.72,693.72 5792.88,1084.98" fill="rgb(75,30,10)" fill-opacity="0.502"/>
+<polygon points="5328.00,2032.00 5328.00,2400.00 5280.00,2400.00 5280.00,2032.00" fill="rgb(201,159,131)" fill-opacity="0.502"/>
+<polygon points="1781.10,692.46 1125.50,715.35 1114.90,411.54 1770.50,388.65" fill="rgb(162,153,93)" fill-opacity="0.502"/>
+<polygon points="3208.09,560.88 3093.43,960.76 3031.91,943.12 3146.57,543.24" fill="rgb(57,20,3)" fill-opacity="0.502"/>
+<polygon points="4192.92,1104.05 4222.23,1663.29 3599.08,1695.95 3569.77,1136.71" fill="rgb(94,62,43)" fill-opacity="0.502"/>
+<circle cx="3264.00" cy="2144.00" r="144.00" fill="rgb(204,39,5)" fill-opacity="0.502"/>
+<polygon points="4017.63,3878.95 3947.42,3813.47 4078.37,3673.05 4148.58,3738.53" fill="rgb(185,73,49)" fill-opacity="0.502"/>
+<polygon points="3136.00,1072.00 3680.00,1072.00 3680.00,1104.00 3136.00,1104.00" fill="rgb(255,252,211)" fill-opacity="0.502"/>
+<circle cx="2400.00" cy="3632.00" r="176.00" fill="rgb(17,14,9)" fill-opacity="0.502"/>
+<polygon points="1341.53,2558.51 1288.95,2459.62 1458.47,2369.49 1511.05,2468.38" fill="rgb(71,39,9)" fill-opacity="0.502"/>
+<g transform="translate(6832.00 2352.00) rotate(276) scale(496.00 80.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(175,125,81)" fill-opacity="0.502"/></g>
+<circle cx="5264.00" cy="912.00" r="48.00" fill="rgb(255,241,226)" fill-opacity="0.502"/>
+<g transform="translate(5200.00 1584.00) rotate(186) scale(16.00 768.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(255,224,200)" fill-opacity="0.502"/></g>
+<polygon points="2684.97,2012.73 2481.59,2411.90 2339.03,2339.27 2542.41,1940.10" fill="rgb(238,172,132)" fill-opacity="0.502"/>
+<polygon points="6415.95,2176.44 6386.28,2164.45 6608.05,1615.56 6637.72,1627.55" fill="rgb(177,130,95)" fill-opacity="0.502"/>
+<circle cx="3360.00" cy="2688.00" r="320.00" fill="rgb(0,0,3)" fill-opacity="0.502"/>
+<g transform="translate(2944.00 4032.00) rotate(259) scale(80.00 592.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,0,0)" fill-opacity="0.502"/></g>
+<circle cx="6928.00" cy="4144.00" r="144.00" fill="rgb(164,116,75)" fill-opacity="0.502"/>
+<polygon points="4179.46,3063.13 4034.55,2937.17 4076.54,2888.87 4221.45,3014.83" fill="rgb(62,16,6)" fill-opacity="0.502"/>
+<g transform="translate(4224.00 4592.00) rotate(90) scale(320.00 320.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(126,87,49)" fill-opacity="0.502"/></g>
+<polygon points="3376.01,879.21 3405.56,841.39 3455.99,880.79 3426.44,918.61" fill="rgb(255,255,247)" fill-opacity="0.502"/>
+<g transform="translate(3392.00 896.00) rotate(261) scale(160.00 304.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(127,82,56)" fill-opacity="0.502"/></g>
+<circle cx="4576.00" cy="112.00" r="128.00" fill="rgb(161,113,66)" fill-opacity="0.502"/>
+<g transform="translate(4320.00 2688.00) rotate(100) scale(96.00 112.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(126,62,25)" fill-opacity="0.502"/></g>
+<circle cx="2288.00" cy="2816.00" r="80.00" fill="rgb(91,59,53)" fill-opacity="0.502"/>
+<polygon points="4242.47,1464.27 4221.53,1863.73 4221.53,1863.73 4242.47,1464.27" fill="rgb(255,255,255)" fill-opacity="0.502"/>
+<circle cx="2832.00" cy="416.00" r="160.00" fill="rgb(84,50,20)" fill-opacity="0.502"/>
+<polygon points="1297.68,1161.66 1238.34,1137.68 1262.32,1078.34 1321.66,1102.32" fill="rgb(255,232,208)" fill-opacity="0.502"/>
+<g transform="translate(2720.00 432.00) rotate(19) scale(16.00 608.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(161,131,53)" fill-opacity="0.502"/></g>
+<circle cx="1232.00" cy="2272.00" r="128.00" fill="rgb(208,148,77)" fill-opacity="0.502"/>
+<polygon points="5963.95,2690.80 5970.64,2754.45 5716.05,2781.20 5709.36,2717.55" fill="rgb(255,229,190)" fill-opacity="0.502"/>
+<g transform="translate(4288.00 0.00) rotate(348) scale(192.00 304.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(76,39,19)" fill-opacity="0.502"/></g>
+<circle cx="5104.00" cy="1888.00" r="80.00" fill="rgb(251,60,41)" fill-opacity="0.502"/>
+<g transform="translate(2128.00 624.00) rotate(222) scale(272.00 96.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(45,40,10)" fill-opacity="0.502"/></g>
+<g transform="translate(2144.00 3504.00) rotate(104) scale(416.00 64.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(14,14,1)" fill-opacity="0.502"/></g>
+<polygon points="2678.81,549.34 2473.66,-273.47 2489.19,-277.34 2694.34,545.47" fill="rgb(255,251,177)" fill-opacity="0.502"/>
+<g transform="translate(5824.00 352.00) rotate(345) scale(16.00 704.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(21,0,0)" fill-opacity="0.502"/></g>
+<circle cx="2272.00" cy="1184.00" r="64.00" fill="rgb(93,79,0)" fill-opacity="0.502"/>
+<polygon points="5629.96,2339.55 5835.94,2368.50 5778.04,2780.45 5572.06,2751.50" fill="rgb(252,177,142)" fill-opacity="0.502"/>
+<circle cx="5536.00" cy="1008.00" r="64.00" fill="rgb(18,0,0)" fill-opacity="0.502"/>
+<g transform="translate(3984.00 0.00) rotate(139) scale(336.00 432.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(118,75,44)" fill-opacity="0.502"/></g>
+<circle cx="3024.00" cy="2496.00" r="192.00" fill="rgb(0,1,2)" fill-opacity="0.502"/>
+<g transform="translate(1776.00 3904.00) rotate(347) scale(160.00 192.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(29,22,16)" fill-opacity="0.502"/></g>
+<polygon points="1297.07,1931.27 1444.36,1629.27 1918.93,1860.73 1771.64,2162.73" fill="rgb(224,148,102)" fill-opacity="0.502"/>
+<g transform="translate(6288.00 0.00) rotate(89) scale(64.00 112.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(178,167,53)" fill-opacity="0.502"/></g>
+<polygon points="4176.00,2768.00 4800.00,2768.00 4800.00,2816.00 4176.00,2816.00" fill="rgb(255,216,176)" fill-opacity="0.502"/>
+<g transform="translate(3648.00 2832.00) rotate(56) scale(32.00 304.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,0,0)" fill-opacity="0.502"/></g>
+<circle cx="3376.00" cy="496.00" r="336.00" fill="rgb(67,29,13)" fill-opacity="0.502"/>
+<polygon points="3584.00,2032.00 3488.00,2032.00 3488.00,1696.00 3584.00,1696.00" fill="rgb(107,28,7)" fill-opacity="0.502"/>
+<g transform="translate(2784.00 2768.00) rotate(96) scale(224.00 48.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(128,57,38)" fill-opacity="0.502"/></g>
+<polygon points="2814.84,4469.87 3276.24,4337.57 3329.16,4522.13 2867.76,4654.43" fill="rgb(67,47,20)" fill-opacity="0.502"/>
+<circle cx="5456.00" cy="2752.00" r="64.00" fill="rgb(213,176,145)" fill-opacity="0.502"/>
+<polygon points="3138.85,1177.74 3595.81,1097.17 3629.15,1286.26 3172.19,1366.83" fill="rgb(116,83,53)" fill-opacity="0.502"/>
+<polygon points="6972.92,1002.81 6988.30,1007.22 6803.08,1653.19 6787.70,1648.78" fill="rgb(63,31,0)" fill-opacity="0.502"/>
+<polygon points="3606.22,2151.26 3271.45,2260.04 3241.78,2168.74 3576.55,2059.96" fill="rgb(252,56,25)" fill-opacity="0.502"/>
+<g transform="translate(2848.00 1856.00) rotate(144) scale(464.00 64.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(217,143,101)" fill-opacity="0.502"/></g>
+<circle cx="432.00" cy="1616.00" r="672.00" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<g transform="translate(3488.00 4016.00) rotate(346) scale(64.00 624.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,0,7)" fill-opacity="0.502"/></g>
+<polygon points="3388.15,3002.45 3621.55,3244.15 3379.85,3477.55 3146.45,3235.85" fill="rgb(187,37,14)" fill-opacity="0.502"/>
+<g transform="translate(4400.00 3072.00) rotate(342) scale(320.00 96.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(172,94,63)" fill-opacity="0.502"/></g>
+<polygon points="1998.94,2289.18 1984.43,2496.68 1729.06,2478.82 1743.57,2271.32" fill="rgb(82,34,11)" fill-opacity="0.502"/>
+<g transform="translate(6784.00 16.00) rotate(196) scale(240.00 240.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(11,15,0)" fill-opacity="0.502"/></g>
+<polygon points="4925.44,2078.99 4881.95,2492.71 4770.56,2481.01 4814.05,2067.29" fill="rgb(91,42,15)" fill-opacity="0.502"/>
+<polygon points="2534.85,3763.03 2837.70,3789.52 2825.15,3932.97 2522.30,3906.48" fill="rgb(103,88,65)" fill-opacity="0.502"/>
+<g transform="translate(1344.00 16.00) rotate(91) scale(272.00 64.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(159,121,75)" fill-opacity="0.502"/></g>
+<circle cx="6000.00" cy="3248.00" r="304.00" fill="rgb(235,162,122)" fill-opacity="0.502"/>
+<polygon points="1352.07,1924.53 1282.10,1963.32 1095.93,1627.47 1165.90,1588.68" fill="rgb(209,135,85)" fill-opacity="0.502"/>
+<circle cx="4384.00" cy="2352.00" r="176.00" fill="rgb(106,59,31)" fill-opacity="0.502"/>
+<polygon points="1183.75,2256.41 1105.81,1701.86 1264.25,1679.59 1342.19,2234.14" fill="rgb(213,143,82)" fill-opacity="0.502"/>
+<g transform="translate(2672.00 0.00) rotate(268) scale(288.00 112.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(255,248,224)" fill-opacity="0.502"/></g>
+<circle cx="496.00" cy="352.00" r="608.00" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<circle cx="6560.00" cy="1872.00" r="32.00" fill="rgb(255,220,184)" fill-opacity="0.502"/>
+<g transform="translate(4128.00 3472.00) rotate(88) scale(448.00 112.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(160,93,62)" fill-opacity="0.502"/></g>
+<g transform="translate(5200.00 2768.00) rotate(89) scale(16.00 560.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(255,231,185)" fill-opacity="0.502"/></g>
+<circle cx="6496.00" cy="2272.00" r="48.00" fill="rgb(253,209,164)" fill-opacity="0.502"/>
+<polygon points="4957.65,73.74 5238.77,285.58 4834.35,822.26 4553.23,610.42" fill="rgb(139,99,53)" fill-opacity="0.502"/>
+<g transform="translate(3936.00 560.00) rotate(147) scale(80.00 416.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(142,109,57)" fill-opacity="0.502"/></g>
+<polygon points="3824.00,2128.00 3808.00,2128.00 3808.00,1456.00 3824.00,1456.00" fill="rgb(255,255,255)" fill-opacity="0.502"/>
+<circle cx="4288.00" cy="1088.00" r="48.00" fill="rgb(255,255,244)" fill-opacity="0.502"/>
+<circle cx="3872.00" cy="2832.00" r="48.00" fill="rgb(188,160,138)" fill-opacity="0.502"/>
+<circle cx="1408.00" cy="3248.00" r="176.00" fill="rgb(28,50,23)" fill-opacity="0.502"/>
+<circle cx="7648.00" cy="128.00" r="576.00" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<circle cx="5280.00" cy="1600.00" r="80.00" fill="rgb(45,10,0)" fill-opacity="0.502"/>
+<circle cx="1584.00" cy="4240.00" r="112.00" fill="rgb(11,7,4)" fill-opacity="0.502"/>
+<g transform="translate(6608.00 4528.00) rotate(43) scale(160.00 288.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(112,85,42)" fill-opacity="0.502"/></g>
+<polygon points="1609.93,4319.94 1791.22,4621.66 1654.07,4704.06 1472.78,4402.34" fill="rgb(32,2,0)" fill-opacity="0.502"/>
+<circle cx="4448.00" cy="864.00" r="48.00" fill="rgb(232,208,177)" fill-opacity="0.502"/>
+<circle cx="2304.00" cy="4592.00" r="240.00" fill="rgb(82,27,14)" fill-opacity="0.502"/>
+<circle cx="6368.00" cy="96.00" r="128.00" fill="rgb(70,41,0)" fill-opacity="0.502"/>
+<g transform="translate(5424.00 416.00) rotate(154) scale(208.00 144.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(56,27,9)" fill-opacity="0.502"/></g>
+<g transform="translate(4320.00 1808.00) rotate(360) scale(64.00 704.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(66,32,6)" fill-opacity="0.502"/></g>
+<circle cx="4720.00" cy="1840.00" r="64.00" fill="rgb(228,154,140)" fill-opacity="0.502"/>
+<circle cx="3200.00" cy="2016.00" r="112.00" fill="rgb(71,51,26)" fill-opacity="0.502"/>
+<polygon points="2092.56,3821.19 1407.18,3761.23 1443.44,3346.81 2128.82,3406.77" fill="rgb(45,52,23)" fill-opacity="0.502"/>
+<circle cx="7040.00" cy="2544.00" r="80.00" fill="rgb(131,90,52)" fill-opacity="0.502"/>
+<g transform="translate(6320.00 1392.00) rotate(10) scale(16.00 528.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(255,239,200)" fill-opacity="0.502"/></g>
+<g transform="translate(5632.00 0.00) rotate(256) scale(192.00 624.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,14,0)" fill-opacity="0.502"/></g>
+<polygon points="6375.77,2921.12 6965.38,3208.69 6888.23,3366.88 6298.62,3079.31" fill="rgb(155,94,57)" fill-opacity="0.502"/>
+<polygon points="2674.23,2171.24 2740.76,1858.23 3053.77,1924.76 2987.24,2237.77" fill="rgb(216,153,100)" fill-opacity="0.502"/>
+<polygon points="2498.52,1809.35 2339.83,2245.37 2189.48,2190.65 2348.17,1754.63" fill="rgb(201,130,64)" fill-opacity="0.502"/>
+<g transform="translate(3888.00 4064.00) rotate(73) scale(192.00 80.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(11,1,0)" fill-opacity="0.502"/></g>
+<polygon points="6167.87,377.77 6077.25,489.68 5816.13,278.23 5906.75,166.32" fill="rgb(108,63,37)" fill-opacity="0.502"/>
+<circle cx="2064.00" cy="2704.00" r="176.00" fill="rgb(13,7,0)" fill-opacity="0.502"/>
+<polygon points="3214.19,924.56 3198.60,928.16 3169.81,803.44 3185.40,799.84" fill="rgb(255,255,255)" fill-opacity="0.502"/>
+<g transform="translate(2704.00 1648.00) rotate(278) scale(400.00 32.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(177,121,99)" fill-opacity="0.502"/></g>
+<circle cx="3376.00" cy="1728.00" r="128.00" fill="rgb(18,6,0)" fill-opacity="0.502"/>
+<polygon points="5999.25,2164.13 5888.95,2144.68 6016.75,1419.87 6127.05,1439.32" fill="rgb(52,10,0)" fill-opacity="0.502"/>
+<polygon points="1352.15,1140.39 1383.91,1136.49 1463.85,1787.61 1432.09,1791.51" fill="rgb(255,228,196)" fill-opacity="0.502"/>
+<polygon points="4013.95,3371.42 4059.75,3135.83 4578.05,3236.58 4532.25,3472.17" fill="rgb(123,63,33)" fill-opacity="0.502"/>
+<g transform="translate(4256.00 3632.00) rotate(21) scale(224.00 112.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(175,121,84)" fill-opacity="0.502"/></g>
+<g transform="translate(7264.00 3392.00) rotate(323) scale(80.00 272.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,0,0)" fill-opacity="0.502"/></g>
+<circle cx="3680.00" cy="3808.00" r="224.00" fill="rgb(0,0,7)" fill-opacity="0.502"/>
+<g transform="translate(4304.00 1920.00) rotate(293) scale(320.00 80.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(128,95,71)" fill-opacity="0.502"/></g>
+<circle cx="1632.00" cy="4128.00" r="80.00" fill="rgb(12,4,0)" fill-opacity="0.502"/>
+<circle cx="5840.00" cy="3840.00" r="336.00" fill="rgb(172,116,73)" fill-opacity="0.502"/>
+<circle cx="4080.00" cy="2672.00" r="96.00" fill="rgb(109,39,6)" fill-opacity="0.502"/>
+<g transform="translate(6144.00 1952.00) rotate(187) scale(32.00 800.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(63,26,0)" fill-opacity="0.502"/></g>
+<polygon points="3890.80,3046.38 3947.82,3017.32 4013.20,3145.62 3956.18,3174.68" fill="rgb(198,114,76)" fill-opacity="0.502"/>
+<polygon points="1133.93,4242.01 1314.07,4138.01 1538.07,4525.99 1357.93,4629.99" fill="rgb(88,66,43)" fill-opacity="0.502"/>
+<circle cx="4512.00" cy="1824.00" r="80.00" fill="rgb(53,21,0)" fill-opacity="0.502"/>
+<circle cx="2400.00" cy="1632.00" r="64.00" fill="rgb(115,67,39)" fill-opacity="0.502"/>
+<circle cx="7472.00" cy="2304.00" r="480.00" fill="rgb(3,1,0)" fill-opacity="0.502"/>
+<polygon points="5655.09,1923.08 5560.27,1908.06 5672.91,1196.92 5767.73,1211.94" fill="rgb(53,23,0)" fill-opacity="0.502"/>
+<polygon points="7048.90,507.54 6873.37,671.22 6535.10,308.46 6710.63,144.78" fill="rgb(87,60,26)" fill-opacity="0.502"/>
+<polygon points="4444.15,1103.90 4460.13,1104.74 4435.85,1568.10 4419.87,1567.26" fill="rgb(255,255,255)" fill-opacity="0.502"/>
+<circle cx="7888.00" cy="2960.00" r="816.00" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<g transform="translate(880.00 4064.00) rotate(259) scale(512.00 208.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,0,0)" fill-opacity="0.502"/></g>
+<circle cx="5392.00" cy="4032.00" r="256.00" fill="rgb(154,105,65)" fill-opacity="0.502"/>
+<circle cx="5632.00" cy="4592.00" r="256.00" fill="rgb(113,80,42)" fill-opacity="0.502"/>
+<polygon points="3362.99,3174.57 3300.94,3286.52 3133.01,3193.43 3195.06,3081.48" fill="rgb(227,59,24)" fill-opacity="0.502"/>
+<g transform="translate(6528.00 2384.00) rotate(15) scale(32.00 304.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(61,21,0)" fill-opacity="0.502"/></g>
+<polygon points="6452.77,1619.60 6410.96,2017.41 6363.23,2012.40 6405.04,1614.59" fill="rgb(227,169,139)" fill-opacity="0.502"/>
+<polygon points="2736.09,1152.42 2736.09,1152.42 2767.91,1759.58 2767.91,1759.58" fill="rgb(255,255,255)" fill-opacity="0.502"/>
+<g transform="translate(1888.00 4384.00) rotate(32) scale(288.00 112.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(85,49,34)" fill-opacity="0.502"/></g>
+<polygon points="5521.29,1946.53 5470.59,2359.42 5454.71,2357.47 5505.41,1944.58" fill="rgb(255,255,225)" fill-opacity="0.502"/>
+<circle cx="4384.00" cy="2560.00" r="96.00" fill="rgb(206,129,82)" fill-opacity="0.502"/>
+<polygon points="4979.07,1421.92 4558.14,1324.75 4604.93,1122.08 5025.86,1219.25" fill="rgb(99,51,36)" fill-opacity="0.502"/>
+<g transform="translate(2496.00 352.00) rotate(66) scale(688.00 64.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(163,141,41)" fill-opacity="0.502"/></g>
+<circle cx="3680.00" cy="3136.00" r="64.00" fill="rgb(0,113,2)" fill-opacity="0.502"/>
+<polygon points="2154.58,4406.59 1999.19,4323.96 2149.42,4041.41 2304.81,4124.04" fill="rgb(30,0,0)" fill-opacity="0.502"/>
+<circle cx="656.00" cy="832.00" r="448.00" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<g transform="translate(496.00 4432.00) rotate(255) scale(432.00 624.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(0,0,0)" fill-opacity="0.502"/></g>
+<g transform="translate(6432.00 3808.00) rotate(223) scale(368.00 272.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(194,130,90)" fill-opacity="0.502"/></g>
+<polygon points="4057.24,1412.76 4046.54,1424.65 4022.76,1403.24 4033.46,1391.35" fill="rgb(255,255,255)" fill-opacity="0.502"/>
+<polygon points="4046.21,1208.47 4106.30,1321.49 4049.79,1351.53 3989.70,1238.51" fill="rgb(172,146,136)" fill-opacity="0.502"/>
+<polygon points="4255.24,249.20 4159.96,260.90 4128.76,6.80 4224.04,-4.90" fill="rgb(52,14,0)" fill-opacity="0.502"/>
+<polygon points="4022.78,2266.59 4110.31,2060.40 4169.22,2085.41 4081.69,2291.60" fill="rgb(73,30,7)" fill-opacity="0.502"/>
+<g transform="translate(1744.00 1632.00) rotate(177) scale(560.00 32.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(81,43,27)" fill-opacity="0.502"/></g>
+<circle cx="5328.00" cy="384.00" r="112.00" fill="rgb(85,48,21)" fill-opacity="0.502"/>
+<polygon points="2282.67,156.26 2342.86,321.65 2117.33,403.74 2057.14,238.35" fill="rgb(82,53,18)" fill-opacity="0.502"/>
+<g transform="translate(4848.00 1232.00) rotate(345) scale(16.00 80.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(216,179,170)" fill-opacity="0.502"/></g>
+<polygon points="5792.00,3024.00 5792.00,3440.00 5312.00,3440.00 5312.00,3024.00" fill="rgb(214,134,99)" fill-opacity="0.502"/>
+<polygon points="3291.24,2324.14 3227.86,2315.24 3236.76,2251.86 3300.14,2260.76" fill="rgb(223,43,43)" fill-opacity="0.502"/>
+<polygon points="5293.58,629.30 5299.16,549.49 5602.42,570.70 5596.84,650.51" fill="rgb(134,92,66)" fill-opacity="0.502"/>
+<g transform="translate(4608.00 1920.00) rotate(184) scale(16.00 1072.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(243,211,179)" fill-opacity="0.502"/></g>
+<circle cx="2736.00" cy="880.00" r="64.00" fill="rgb(219,175,170)" fill-opacity="0.502"/>
+<g transform="translate(6112.00 2704.00) rotate(126) scale(64.00 64.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(239,187,149)" fill-opacity="0.502"/></g>
+<circle cx="4336.00" cy="960.00" r="64.00" fill="rgb(85,30,12)" fill-opacity="0.502"/>
+<polygon points="1799.04,2893.41 1730.27,3055.42 1096.96,2786.59 1165.73,2624.58" fill="rgb(39,27,17)" fill-opacity="0.502"/>
+<polygon points="3833.91,-25.50 3968.09,61.64 3846.09,249.50 3711.91,162.36" fill="rgb(63,26,12)" fill-opacity="0.502"/>
+<polygon points="4712.96,280.72 4759.76,-100.42 4855.04,-88.72 4808.24,292.42" fill="rgb(0,0,0)" fill-opacity="0.502"/>
+<polygon points="6547.69,2920.68 6747.75,2713.51 6828.31,2791.32 6628.25,2998.49" fill="rgb(85,45,28)" fill-opacity="0.502"/>
+<circle cx="6896.00" cy="928.00" r="32.00" fill="rgb(235,213,143)" fill-opacity="0.502"/>
+<polygon points="1949.18,1572.71 2069.21,1443.99 2162.82,1531.29 2042.79,1660.01" fill="rgb(68,20,6)" fill-opacity="0.502"/>
+<polygon points="6130.39,4010.83 6223.47,4178.76 5901.61,4357.17 5808.53,4189.24" fill="rgb(154,110,60)" fill-opacity="0.502"/>
+<polygon points="3202.09,3686.60 3313.48,3674.89 3341.91,3945.40 3230.52,3957.11" fill="rgb(129,110,83)" fill-opacity="0.502"/>
+<circle cx="4288.00" cy="784.00" r="160.00" fill="rgb(149,123,77)" fill-opacity="0.502"/>
+<polygon points="2610.80,2639.97 1712.65,2798.33 1693.20,2688.03 2591.35,2529.67" fill="rgb(16,10,7)" fill-opacity="0.502"/>
+<circle cx="4608.00" cy="2288.00" r="112.00" fill="rgb(95,52,23)" fill-opacity="0.502"/>
+<polygon points="1218.44,402.45 1456.65,431.70 1421.56,717.55 1183.35,688.30" fill="rgb(152,137,79)" fill-opacity="0.502"/>
+<polygon points="6364.16,2640.96 6451.17,2681.53 6403.84,2783.04 6316.83,2742.47" fill="rgb(240,189,162)" fill-opacity="0.502"/>
+<circle cx="4368.00" cy="2448.00" r="32.00" fill="rgb(218,163,143)" fill-opacity="0.502"/>
+<polygon points="4035.18,1376.50 4051.16,1377.34 3980.82,2719.50 3964.84,2718.66" fill="rgb(255,215,186)" fill-opacity="0.502"/>
+<g transform="translate(6032.00 2448.00) rotate(233) scale(304.00 96.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(144,89,58)" fill-opacity="0.502"/></g>
+<polygon points="5025.49,2741.36 4417.86,2762.58 4414.51,2666.64 5022.14,2645.42" fill="rgb(99,54,21)" fill-opacity="0.502"/>
+<circle cx="4048.00" cy="4048.00" r="144.00" fill="rgb(132,56,40)" fill-opacity="0.502"/>
+<g transform="translate(3504.00 3408.00) rotate(330) scale(144.00 160.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(128,0,0)" fill-opacity="0.502"/></g>
+<g transform="translate(5328.00 2928.00) rotate(29) scale(32.00 64.00)"><ellipse cx="0" cy="0" rx="1" ry="1" fill="rgb(103,32,16)" fill-opacity="0.502"/></g>
+<circle cx="3312.00" cy="1920.00" r="128.00" fill="rgb(46,23,0)" fill-opacity="0.502"/>
+<polygon points="4422.13,2096.67 4409.85,2448.45 4377.87,2447.33 4390.15,2095.55" fill="rgb(212,166,143)" fill-opacity="0.502"/>
+<polygon points="5971.14,1419.68 6029.15,1121.27 6044.86,1124.32 5986.85,1422.73" fill="rgb(255,216,192)" fill-opacity="0.502"/>
+<polygon points="1883.70,807.87 1908.26,1159.01 1892.30,1160.13 1867.74,808.99" fill="rgb(255,196,172)" fill-opacity="0.502"/>
+<polygon points="1717.67,962.96 1590.49,759.43 1658.33,717.04 1785.51,920.57" fill="rgb(73,24,4)" fill-opacity="0.502"/>
+<circle cx="7024.00" cy="1952.00" r="64.00" fill="rgb(255,207,159)" fill-opacity="0.502"/>
+</g>
+</svg>
